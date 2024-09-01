@@ -1,1 +1,3 @@
 how to fixed github issue; lets learn
+
+how to remove secret key from git repo
